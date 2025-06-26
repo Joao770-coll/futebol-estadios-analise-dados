@@ -51,19 +51,14 @@ O banco é composto por quatro tabelas principais:
 
 - SQLite (ou MySQL/PostgreSQL)
 - SQL
-- Python
+- PYTHON
   - Pandas
   - Matplotlib / Seaborn
   - Jupyter Notebook
 
 ---
 
-## 🚀 Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/futebol-estadios-analise-dados.git
-   cd futebol-estadios-analise-dados
 🧠 Aprendizados
 Este projeto foi desenvolvido como uma forma de praticar:
 
