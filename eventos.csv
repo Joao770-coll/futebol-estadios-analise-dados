@@ -1,0 +1,5 @@
+id_evento,nome_evento,tipo,data_evento,publico,id_estadio
+1,Final Estadual,Partida,2023-04-10,70000,1
+2,Clássico,Partida,2023-05-15,62000,2
+3,Copa do Nordeste,Partida,2023-06-20,55000,3
+4,Grenal,Partida,2023-07-05,48000,4
